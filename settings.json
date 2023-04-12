@@ -1,0 +1,54 @@
+{
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "off",
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "editor.smoothScrolling": false,
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 23,
+  "editor.fontWeight": 400,
+  "editor.letterSpacing": 0.5,
+  "editor.fontLigatures": true,
+  "editor.cursorWidth": 3,
+  "editor.autoClosingBrackets": "always",
+  "terminal.integrated.fontFamily": "MesloLGS NF Regular",
+  "terminal.integrated.fontSize": 12.5,
+  "terminal.integrated.letterSpacing": 1,
+  "workbench.editor.decorations.colors": true,
+  "editor.fontFamily": "Consolas, 'JetBrains Mono', 'Courier New', monospace",
+  "editor.minimap.showSlider": "always",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "quokka.compactMessageOutput": true,
+  "eslint.alwaysShowStatus": true,
+  "breadcrumbs.enabled": true,
+  "workbench.colorCustomizations": {
+    "editorInlayHint.background": "#202020",
+    "editorInlayHint.foreground": "#afafaf"
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": ".github/workflows/*"
+  },
+  "sync.autoUpload": false,
+  "beautify.language": {
+    "js": {
+      "type": ["json"],
+      "ext": ["json"]
+    },
+    "css": ["css", "scss"],
+    "html": []
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.format.enable": false,
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+  },
+  "dart.previewFlutterUiGuides": true,
+  "editor.formatOnSave": true,
+  "git.mergeEditor": false,
+  "window.zoomLevel": 1
+}
